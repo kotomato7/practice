@@ -86,3 +86,20 @@ p{
   margin-inline-end: 1rem;
   text-align: left;
 }
+
+.bicycle_list{
+  display: flex;
+  justify-content: space-between;
+}
+
+h3{
+  margin: 10px 0;
+}
+
+.bicycle_title{
+  font-weight: bold;
+}
+
+.bicycle_content{
+  text-align: center;
+}
